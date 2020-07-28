@@ -27,3 +27,11 @@ For experimentation, all the labels are represented as one-hot encodings, the in
 
 - **Emotion** - {'neutral': 0, 'surprise': 1, 'fear': 2, 'sadness': 3, 'joy': 4, 'disgust': 5, 'anger': 6}. Therefore, the label corresponding to the emotion 'joy' would be [0., 0., 0., 0., 1., 0., 0.]
 - **Sentiment** - {'neutral': 0, 'positive': 1, 'negative': 2}. Therefore, the label corresponding to the sentiment 'positive' would be [0., 1., 0.]
+
+## To Download Pickles and Pre-Trained Model Weights
+
+please visit :-
+
+
+[MELD-TEXT](https://drive.google.com/drive/folders/12vCrspHhWDxATBg7Lr5V1CxqhD-1be9B?usp=sharing)
+
